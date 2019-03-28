@@ -1,8 +1,8 @@
 
 # Arduino_And_Rails
 
-
 This repo has 3 main important parts
+
 <img src="flow.png" width="400">
 
 ## Arduino Part
