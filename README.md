@@ -15,6 +15,7 @@ c --> Y[Tablets]
 | The Arduino UNO has a ultrasonic sensor, the URM37 V4.0|And these are the connections|
 |------------|-------------|
 | <img src="https://www.dfrobot.com/wiki/images/3/30/URM37_V4.0_Ultrasonic_Sensor3.png" width="400"> | <img src="https://www.dfrobot.com/wiki/images/7/77/URM37_V4.0_Ultrasonic_pwmtriggermodecon.png" width="300"> |
+
 And then every second **Arduino** sends the signal from the ultrasonic sensor to the __Serial Port__
 
 ##  'Ruby Script'
