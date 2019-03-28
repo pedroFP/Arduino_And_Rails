@@ -1,14 +1,9 @@
 
 # Arduino_And_Rails
+
+
 This repo has 3 main important parts
-```mermaid
-graph LR
-A[Arduino] -- SerialPort --> B[ruby_script]
-B -- post request --> c[rails app]
-c --> T[Phones]
-c --> R[Desktops]
-c --> Y[Tablets]
-```
+<img src="flow.png" width="400">
 
 ## Arduino Part
 ### Components
